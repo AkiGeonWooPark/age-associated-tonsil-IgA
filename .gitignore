@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Large data / objects (not tracked)
+*.rds
+*.h5ad
+*.h5
+*.mtx
+*.csv
+*.tsv
+*.xlsx
+*.pdf
+*.png
